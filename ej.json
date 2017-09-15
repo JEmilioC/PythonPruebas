@@ -1,0 +1,6 @@
+{
+    "alumnos":[
+    {"Nombre":"Emilio", "Edad":19},
+    {"Nombre":"Jose","Edad":20 },
+    {"Nombre":"JosEmilio","Edad":21}]
+}
